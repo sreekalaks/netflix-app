@@ -1,0 +1,15 @@
+.banner{
+    height: 650px;
+    object-fit: contain;
+}
+.banner-content{
+    padding: 450px;
+    margin-left: 50px;
+}
+.banner-title{
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.banner-overview{
+    line-height: 30px;
+}
